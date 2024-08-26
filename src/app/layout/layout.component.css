@@ -1,0 +1,10 @@
+.center{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+
+}
+.container{
+  width: 100%;
+  max-width: 90%;
+}
